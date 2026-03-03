@@ -7,7 +7,7 @@ A full-stack NLP application that classifies questions into 6 semantic categorie
 ---
 ## Preview
 
-![Question Classifier UI](docs/preview_of_app.png)
+![Question Classifier UI](frontend/docs/preview_of_app.png)
 
 ## Project Structure
 

@@ -5,6 +5,9 @@ A full-stack NLP application that classifies questions into 6 semantic categorie
 **Categories:** ABBR · DESC · ENTY · HUM · LOC · NUM
 
 ---
+## Preview
+
+![Question Classifier UI](docs/preview.png)
 
 ## Project Structure
 
